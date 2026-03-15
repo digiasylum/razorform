@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ## Features
 
 ### 🧱 Visual Form Builder
@@ -112,38 +114,6 @@ Use these in subject lines and headline fields:
 
 ---
 
-## File Structure
-
-```
-razorforms/
-├── razorforms.php                  # Plugin bootstrap
-├── readme.txt                      # WordPress plugin readme
-├── README.md                       # GitHub readme
-├── assets/
-│   ├── css/
-│   │   ├── admin.css               # Admin dashboard styles
-│   │   ├── builder.css             # Form builder styles
-│   │   └── form.css                # Frontend form styles
-│   └── js/
-│       ├── builder.js              # Form builder interactions
-│       └── form.js                 # Frontend payment flow
-├── includes/
-│   ├── class-rf-admin.php          # Admin pages: Dashboard, Submissions, Settings
-│   ├── class-rf-ajax.php           # Form submit handler + email sending
-│   ├── class-rf-db.php             # Custom DB table for submissions
-│   ├── class-rf-meta-boxes.php     # Form builder meta box + save logic
-│   ├── class-rf-post-type.php      # Custom post type registration
-│   ├── class-rf-receipt.php        # PDF receipt generator
-│   ├── class-rf-settings.php       # Global settings page
-│   ├── class-rf-shortcode.php      # Frontend form rendering via shortcode
-│   ├── class-rf-templates.php      # Built-in form templates
-│   └── class-rf-webhook.php        # Razorpay webhook handler
-└── templates/
-    └── form.php                    # Frontend form HTML template
-```
-
----
-
 ## Changelog
 
 ### v1.3.0
@@ -189,7 +159,7 @@ razorforms/
 ## Credits
 
 Developed by **[Digiasylum](https://www.digiasylum.com)**  
-Lead Developer: **Umesh Kumar Sahai** — [LinkedIn](https://linkedin.com/in/umeshkumarsahai)  
+Lead Developer: **[Umesh Kumar Sahai](https://linkedin.com/in/umeshkumarsahai)**  
 Powered by **[Razorpay](https://razorpay.com)**
 
 ---
