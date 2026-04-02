@@ -160,7 +160,6 @@ Use these in subject lines and headline fields:
 
 Developed by **[Digiasylum](https://www.digiasylum.com)**  
 Lead Developer: **[Umesh Kumar Sahai](https://linkedin.com/in/umeshkumarsahai)**  
-Powered by **[Razorpay](https://razorpay.com)**
 
 ---
 
